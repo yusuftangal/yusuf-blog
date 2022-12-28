@@ -5,7 +5,6 @@
       <div class="layout-medium"> 
         <div id="primary" class="content-area">
           <Hero />
-          <PostSlider />
         </div>
       </div>
     </div>
@@ -19,7 +18,6 @@ export default {
   components: {
     Navbar: () => import("@/components/Navbar.vue"),
     Hero: () => import("@/components/Hero.vue"),
-    PostSlider: () => import("@/components/PostSlider.vue"),
 },
 
   name: 'IndexPage'
