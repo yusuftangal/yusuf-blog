@@ -17,7 +17,7 @@
                      
                      <!-- site-title : image-logo -->
                      <h1 class="site-title">
-                         <a href="index.html" rel="home">
+                         <a href="/" rel="home">
                              <img src="images/site/logo.png" alt="logo">
                              <span class="screen-reader-text">Haley Dust</span>
                          </a>

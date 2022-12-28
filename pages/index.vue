@@ -3,11 +3,11 @@
     <Navbar />
     <div id="main" class="site-main">
       <div class="layout-medium"> 
-        <div id="primary" class="content-area">
-          <Hero />
-        </div>
+        <Hero />
+        <BlogPost />
       </div>
     </div>
+    <Footer />
   </div>
 </template>
 
@@ -18,6 +18,8 @@ export default {
   components: {
     Navbar: () => import("@/components/Navbar.vue"),
     Hero: () => import("@/components/Hero.vue"),
+    BlogPost: () => import("@/components/BlogPost.vue"),
+    Footer: () => import("@/components/Footer.vue"),
 },
 
   name: 'IndexPage'

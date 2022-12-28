@@ -2,7 +2,7 @@
     <section>
          <!-- site-main -->
         
-   
+         <div id="primary" class="content-area">
                     <!-- site-content -->
                     <div id="content" class="site-content" role="main"> <!-- .hentry -->
                         <article class="hentry page">
@@ -55,6 +55,6 @@
                          </article> 
                          <!-- .page -->
                     </div>
-               
+         </div>     
     </section>
 </template>
