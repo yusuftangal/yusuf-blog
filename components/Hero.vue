@@ -15,7 +15,8 @@
                                 
                                 <!-- .profile-image -->
                                 <div class="profile-image">
-                                	<img alt="profile" src="images/site/about-me-2.jpg"/>
+                            <!--burası "JPG" olacak logoyu da C:\Users\Yusuf\Documents\GitHub\yusuf-blog\static\images\site buradan değiştiriyoruz-->
+                                	<img alt="profile" src="images/site/about-me-2.png"/>
                                 </div>  
                                 <!-- .profile-image -->
                                 
