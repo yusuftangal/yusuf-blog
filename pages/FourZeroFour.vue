@@ -2,9 +2,8 @@
   <div id="page" class="hfeed site">
     <Navbar />
     <div id="main" class="site-main">
-      <div class="layout-medium"> 
-        <Hero />
-        <BlogPost />
+      <div class="layout-medium">
+        <NotFound />
       </div>
     </div>
     <Footer />
@@ -12,16 +11,11 @@
 </template>
 
 <script>
-
 export default {
-
   components: {
     Navbar: () => import("@/components/Navbar.vue"),
-    Hero: () => import("@/components/Hero.vue"),
-    BlogPost: () => import("@/components/BlogPost.vue"),
     Footer: () => import("@/components/Footer.vue"),
-},
-
-  
-}
+    NotFound: () => import("@/components/NotFound.vue"),
+  },
+};
 </script>
