@@ -13,17 +13,17 @@
                 
                 
                     <!-- site-title : text-logo -->
-                    <!--<h1 class="site-title">
+                    <h1 class="site-title">
                         <a href="../index.html" rel="home">
-                            Jeff Winger
+                            yusuf's blog
                         </a>
-                    </h1>-->
+                    </h1>
                     <!-- site-title -->
                                
                     <!-- site-title : image-logo -->
                     <h1 class="site-title">
                         <a href="index.html" rel="home">
-                            <img src="images/site/logo.png" alt="logo">
+                            <!--<img src="images/site/logo.png" alt="logo">-->
                         </a>
                     </h1>
                     <!-- site-title -->

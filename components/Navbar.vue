@@ -16,20 +16,20 @@
                      
                      
                      <!-- site-title : image-logo -->
-                     <h1 class="site-title">
+                     <!----><h1 class="site-title">
                          <nuxt-link to="/" rel="home">
-                             <img src="images/site/logo.png" alt="logo">
-                             <span class="screen-reader-text">Haley Dust</span>
+                             <!--<img src="images/site/logo.png" alt="logo">-->
+                             <span class="screen-reader-text">yusuf's blog</span>
                          </nuxt-link>
                      </h1>
                      <!-- site-title -->
                      
                      <!-- site-title : text-logo -->
-                     <!--<h1 class="site-title">
+                     <h1 class="site-title">
                          <a href="../index.html" rel="home">
-                             Haley Dust
+                            yusuf's blog
                          </a>
-                     </h1>-->
+                     </h1>
                      <!-- site-title -->
                      
                      
