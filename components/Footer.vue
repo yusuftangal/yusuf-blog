@@ -1,57 +1,57 @@
 <template>
-    <section>
-         <!-- site-footer -->
-         <footer id="colophon" class="site-footer" role="contentinfo">
-			
-            <!-- layout-medium -->
-            <div class="layout-medium">
-            
-            	<!--HASAN HOCA-->
-                
-                <!-- site-title-wrap -->
-                <div class="site-title-wrap">
-                
-                
-                    <!-- site-title : text-logo -->
-                    <h1 class="site-title">
-                        <a href="../index.html" rel="home">
-                            yusuf's blog
-                        </a>
-                    </h1>
-                    <!-- site-title -->
-                               
-                    <!-- site-title : image-logo -->
-                    <h1 class="site-title">
-                        <a href="index.html" rel="home">
-                            <!--<img src="images/site/logo.png" alt="logo">-->
-                        </a>
-                    </h1>
-                    <!-- site-title -->
-                    
-                    <p class="site-description">just living the life as it goes by</p>
-                
-                </div>
-                <!-- site-title-wrap -->
-                
-            	
-                <!-- footer-social -->
-                <div class="footer-social">
-                	
-                    <div class="textwidget">
-                        <a class="social-link facebook" href="#"></a>
-                        <a class="social-link twitter" href="#"></a>
-                        <a class="social-link vine" href="#"></a>
-                        <a class="social-link dribbble" href="#"></a>
-                        <a class="social-link instagram" href="#"></a>
-                    </div>
-                    
-                </div>
-                <!-- footer-social -->
-                
-                
-                
-                <!-- widget-area -->
-                <!--<div class="widget-area" role="complementary">
+  <section>
+    <!-- site-footer -->
+    <footer id="colophon" class="site-footer" role="contentinfo">
+      <!-- layout-medium -->
+      <div class="layout-medium">
+        <!--HASAN HOCA-->
+
+        <!-- site-title-wrap -->
+        <div class="site-title-wrap">
+          <!-- site-title : text-logo -->
+          <h1 class="site-title">
+            <a href="../index.html" rel="home"> yusuf's blog </a>
+          </h1>
+          <!-- site-title -->
+
+          <!-- site-title : image-logo -->
+          <h1 class="site-title">
+            <a href="index.html" rel="home">
+              <!--<img src="images/site/logo.png" alt="logo">-->
+            </a>
+          </h1>
+          <!-- site-title -->
+
+          <p class="site-description">© 2022 yusuf' s blog</p>
+        </div>
+        <!-- site-title-wrap -->
+
+        <!-- footer-social -->
+        <div class="footer-social">
+          <div class="textwidget">
+            <a
+              class="social-link github"
+              href="https://github.com/yusuftangal"
+            ></a>
+            <a class="social-link twitter" href="#"></a>
+            <a
+              class="social-link spotify"
+              href="https://open.spotify.com/user/mx9jjgacfaus629lcad97htrw"
+            ></a>
+            <a
+              class="social-link linkedin"
+              href="https://www.linkedin.com/in/yusuf-tangalo%C4%9Flu-1887ba23b/"
+            ></a>
+            <a
+              class="social-link instagram"
+              href="https://www.instagram.com/kodlojii/"
+            ></a>
+          </div>
+        </div>
+        <!-- footer-social -->
+
+        <!-- widget-area -->
+        <!--<div class="widget-area" role="complementary">
            
                     <div class="row">
                         
@@ -142,31 +142,22 @@
                     </div>
                     
                 </div>-->
-                <!-- widget-area -->
-                
-               
-            
-            </div>
-            <!-- layout-medium -->
-                
-                
-            <!-- .site-info -->
-            <div class="site-info">
-            	
-                <!-- layout-medium -->
-            	<div class="layout-medium">
-                
-            		<div class="textwidget">crafted with <i class="pw-icon-heart"></i> <em>by</em> Pixelwars</div>
-                
-                </div>
-            	<!-- layout-medium -->
-            
-            </div>
-            <!-- .site-info -->
-            
-            
-            
-		</footer>
-        <!-- site-footer -->
-    </section>
+        <!-- widget-area -->
+      </div>
+      <!-- layout-medium -->
+
+      <!-- .site-info -->
+      <div class="site-info">
+        <!-- layout-medium -->
+        <div class="layout-medium">
+          <div class="textwidget">
+            crafted with <i class="pw-icon-heart"></i> <em>by</em> Pixelwars
+          </div>
+        </div>
+        <!-- layout-medium -->
+      </div>
+      <!-- .site-info -->
+    </footer>
+    <!-- site-footer -->
+  </section>
 </template>

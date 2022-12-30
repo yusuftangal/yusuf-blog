@@ -10,14 +10,13 @@
   </div>
 </template>
 <script>
-import ContactMe from '../components/ContactMe.vue';
-
+import ContactMe from "../components/ContactMe.vue";
 
 export default {
   components: {
     Navbar: () => import("@/components/Navbar.vue"),
     Footer: () => import("@/components/Footer.vue"),
     ContactMe: () => import("@/components/ContactMe.vue"),
-},
+  },
 };
 </script>
