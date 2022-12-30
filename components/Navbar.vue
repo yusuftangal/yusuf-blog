@@ -40,9 +40,9 @@
                      <!-- nav-menu -->
                      <div class="nav-menu">
                          <ul>
-                             <li><nuxt-link to="/">HOME</nuxt-link></li>
-                             <li><nuxt-link to="/about">ABOUT ME</nuxt-link></li>
-                             <li><nuxt-link to="/contact">CONTACT</nuxt-link></li>
+                             <li><nuxt-link to="/">ANASAYFA</nuxt-link></li>
+                             <li><nuxt-link to="/about">HAKKIMDA</nuxt-link></li>
+                             <li><nuxt-link to="/contact">İLETİŞİM</nuxt-link></li>
                          </ul>
                      </div>
                      <!-- nav-menu -->

@@ -8,23 +8,28 @@
           <article class="hentry page">
             <!-- .entry-content -->
             <div class="entry-content">
-              <h4>Hey there, what's up?</h4>
+              <h4>Selam, Nasılsın ?</h4>
               <p>
-                Now, when you do this without getting punched in the chest,
-                you'll have more fun. Whoa, this guy's straight? It's a hug,
-                Michael. I'm hugging you. Well, what do you expect, mother? I'm
-                afraid I just blue myself.
+                Merhaba. Ben Yusuf :) Freelancer bir geliştiriciyim. Tekirdağda
+                yaşıyorum. Yazılım ve Spor hakkında Blog yazıyorum.
               </p>
               <p>
-                Guy's a pro. Get me a vodka rocks. And a piece of toast. I don't
-                criticize you! And if you're worried about criticism, sometimes
-                a diet is the best defense. Did you enjoy your meal, Mom? You
-                drank it fast enough.
+                Ben, Profosyonel Fitness ve Amötör Düzeyde Boksörlük Yapıyorum.
+                Sporu hayatımın vazgeçilmez bir parçası haline getirdim ve her
+                gün en az bir saat kendi vücudumu eğitmeyi ve geliştirmeyi
+                hedefliyorum. Aynı zamanda Yazılım geliştirme konusunda da çok
+                ilgiliyim ve Front-end ve Back-end Programlama dillerini
+                öğrenmeye devam ediyorum.
               </p>
               <p>
-                It's called 'taking advantage.' It's what gets you ahead in
-                life. I've opened a door here that I regret. Marry me. Guy's a
-                pro.
+                Özellikle Front-end konusunda uzmanlaşmayı hedefliyorum ve
+                kullanıcı dostu, estetik ve işlevsel web siteleri tasarlamayı
+                seviyorum. Geçmişte birkaç projede çalışma gerçekleştirdim ve şu
+                anda da kendi projelerimde çalışıyorum. Önümde uzun bir yol var
+                ve sürekli kendimi geliştirmeyi hedefliyorum. Gelecekte kendimi
+                sporu ve yazılım geliştirme alanında en iyi hale getirmeyi ve
+                başarılı bir sporcu ve yazılımcı olmayı hedefliyorum. Bu yolda
+                emin adımlarla ilerleyerek hedeflerime ulaşmayı planlıyorum.
               </p>
             </div>
             <!-- .entry-content -->

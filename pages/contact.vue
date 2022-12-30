@@ -7,7 +7,7 @@
           <!-- .hentry -->
           <article class="hentry page">
             <header class="entry-header">
-              <h1 class="entry-title">CONTACT</h1>
+              <h1 class="entry-title">İLETİŞİM</h1>
             </header>
 
             <!-- .entry-content -->
