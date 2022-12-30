@@ -269,9 +269,10 @@
       <aside class="widget widget_text">
         <h3 class="widget-title">About Me</h3>
         <div class="textwidget">
-          <p><img src="images/site/about-me.jpg" alt="avatar" /></p>
+          <p><img src="images/site/about-me.png" alt="avatar" /></p>
           <p>
-            Merhaba. Ben Yusuf :) Freelancer bir geliştiriciyim. Tekirdağda yaşıyorum. yazılım ve spor hakkında blog yazıyorum.
+            Merhaba. Ben Yusuf :) Freelancer bir geliştiriciyim. Tekirdağda
+            yaşıyorum. yazılım ve spor hakkında blog yazıyorum.
           </p>
         </div>
       </aside>
