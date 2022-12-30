@@ -1,8 +1,6 @@
 <template>
-  <section>
-    <div id="page" class="hfeed site">
-      <div class="layout-medium"></div>
-      <div id="main" class="site-main">
+    <section>
+        <div id="content" class="site-content" role="main">
           <!-- .hentry -->
           <article class="hentry page">
             <header class="entry-header">
@@ -76,7 +74,5 @@
           </article>
           <!-- .hentry -->
         </div>
-      </div>
-    
-  </section>
+    </section>
 </template>
