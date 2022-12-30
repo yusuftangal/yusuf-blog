@@ -24,29 +24,29 @@
 
             <!-- .link-boxes -->
             <figure>
-              <a href="about.html"
-                ><img src="images/site/box-01.jpg" alt="About Me"
+              <a href="about"
+                ><img src="images/site/box-01.png" alt="About Me"
               /></a>
               <figcaption class="wp-caption-text">About Me</figcaption>
             </figure>
 
             <figure>
               <a href="about.html"
-                ><img src="images/site/box-02.jpg" alt="About Me"
+                ><img src="images/site/box-02.png" alt="About Me"
               /></a>
-              <figcaption class="wp-caption-text">Life</figcaption>
+              <figcaption class="wp-caption-text">GYM</figcaption>
             </figure>
 
             <figure>
               <a href="about.html"
-                ><img src="images/site/box-03.jpg" alt="About Me"
+                ><img src="images/site/box-03.png" alt="About Me"
               /></a>
               <figcaption class="wp-caption-text">Travel</figcaption>
             </figure>
 
             <figure>
-              <a href="https://www.instagram.com/pixelwarsdesign/"
-                ><img src="images/site/box-04.jpg" alt="About Me"
+              <a href="https://www.instagram.com/kodlojii/"
+                ><img src="images/site/box-04.png" alt="About Me"
               /></a>
               <figcaption class="wp-caption-text">
                 Follow On Instagram
